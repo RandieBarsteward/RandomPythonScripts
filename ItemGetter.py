@@ -1,3 +1,5 @@
+#sorting by list subkeys
+
 import operator
 
 cats = [['frank',14,56.5], ['Ron',8,70], ['Jess',7,0], ['Phil',3,150]]
